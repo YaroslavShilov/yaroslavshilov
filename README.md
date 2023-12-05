@@ -11,7 +11,7 @@ Now I'm looking to increase my skills and grow as a developer.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaroslav-shilov-2a504b171)
 [![Telegram](https://img.shields.io/badge/Telegram-%232496D0.svg?logo=telegram&logoColor=white)](https://telegram.me/YaroslavSh)
 [![Gmail](https://img.shields.io/badge/Gmail-%23ff0000.svg?logo=Gmail&logoColor=white)](mailto:workyarik@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-%239924B9.svg?logo=instagram&logoColor=white)](mailto:workyarik@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-%239924B9.svg?logo=instagram&logoColor=white)](https://www.instagram.com/yaroslav_dev/)
 
 ## 💻 Tech Stack:
 ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
