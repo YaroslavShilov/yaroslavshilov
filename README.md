@@ -39,6 +39,11 @@ Now I'm looking to increase my skills and grow as a developer.
 ![git](https://img.shields.io/badge/git-%23E84E31.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🛠️ Some projects:
+
+### 🖱️ Infinite-scroll-to-top 
+[![github](https://img.shields.io/badge/code|description-%23272727.svg?logo=github&logoColor=white)](https://github.com/YaroslavShilov/infinite-scroll-to-top)
+[![site](https://img.shields.io/badge/visit_site-%230D9852.svg?logo=googlechrome&logoColor=white)](https://yaroslavshilov.github.io/infinite-scroll-to-top/)
+
 ### 📖 Articlefy 
 [![github](https://img.shields.io/badge/code|description-%23272727.svg?logo=github&logoColor=white)](https://github.com/YaroslavShilov/Articlefy/tree/main)
 [![site](https://img.shields.io/badge/visit_site-%230D9852.svg?logo=googlechrome&logoColor=white)](https://yaroslavshilov.github.io/Articlefy/)
